@@ -1,6 +1,6 @@
 // Generated on 2013-09-02 using generator-webapp 0.4.1
 'use strict';
-var LIVERELOAD_PORT = 35729;
+var LIVERELOAD_PORT = 36000;
 var lrSnippet = require('connect-livereload')({port: LIVERELOAD_PORT});
 var mountFolder = function (connect, dir) {
     return connect.static(require('path').resolve(dir));

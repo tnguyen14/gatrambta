@@ -1,21 +1,21 @@
 {
-	'inbound': {
-		'weekday': [
+	"inbound": {
+		"weekday": [
 			{
-				'mansfield': '2:12pm',
-				'southstation': '2:50pm'
+				"mansfield": "2:12pm",
+				"southstation": "2:50pm"
 			},
 			{
-				'mansfield': '4:38pm',
-				'southstation': '5:20pm'
+				"mansfield": "4:38pm",
+				"southstation": "5:20pm"
 			}
 		],
-		'sat': {},
-		'sun': {}
+		"sat": [],
+		"sun": []
 	},
-	'outbound': {
-		'weekday': {},
-		'sat': {},
-		'sun': {}
+	"outbound": {
+		"weekday": [],
+		"sat": [],
+		"sun": []
 	}
 }

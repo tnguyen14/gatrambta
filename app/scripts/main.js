@@ -1,6 +1,7 @@
 require.config({
 	paths: {
 		jquery: '../bower_components/jquery/jquery',
+		underscore: '../bower_components/underscore/underscore-min',
 		bootstrapAffix: '../bower_components/sass-bootstrap/js/affix',
 		bootstrapAlert: '../bower_components/sass-bootstrap/js/alert',
 		bootstrapButton: '../bower_components/sass-bootstrap/js/button',
@@ -13,6 +14,9 @@ require.config({
 		bootstrapTransition: '../bower_components/sass-bootstrap/js/transition'
 	},
 	shim: {
+		underscore: {
+			exports: '_'
+		},
 		bootstrapAffix: {
 			deps: ['jquery']
 		},

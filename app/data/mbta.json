@@ -2,8 +2,10 @@
 	"inbound": {
 		"weekday": [
 			{
+				"providence": "1.30pmxx",
+				"wheaton": "1.20pmxx",
 				"mansfield": "2:12pm",
-				"southstation": "2:50pm"
+				"boston": "2:50pm"
 			},
 			{
 				"mansfield": "4:38pm",

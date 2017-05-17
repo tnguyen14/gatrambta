@@ -1,5 +1,7 @@
 # Easy GATRA-MBTA schedule for Wheaton
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tnguyen14/gatrambta.svg)](https://greenkeeper.io/)
+
 ## How to use
 
 ## How to contribute
